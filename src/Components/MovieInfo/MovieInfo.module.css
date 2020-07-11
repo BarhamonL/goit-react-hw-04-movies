@@ -1,0 +1,11 @@
+.infoSection {
+  display: flex;
+  justify-content: space-around;
+  margin: 5px auto;
+  padding: 10px;
+  background-color: #fff;
+  box-shadow: 5px 5px 15px 0px #342f44;
+}
+.infoContainer {
+  max-width: 860px;
+}

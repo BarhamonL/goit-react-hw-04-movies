@@ -1,0 +1,9 @@
+.reviewsList {
+  list-style: none;
+}
+.reviewsList_item {
+  padding: 5px;
+  background-color: #fff;
+  box-shadow: 5px 5px 15px 0px #342f44;
+  margin-bottom: 5px;
+}

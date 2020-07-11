@@ -1,0 +1,18 @@
+.subNavList {
+  display: flex;
+  list-style: none;
+}
+.subNavList_item {
+  width: 56px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.subNavList_link {
+  color: #2617aa;
+}
+
+.subNavList_activeLink {
+  color: #d80f0f;
+}
